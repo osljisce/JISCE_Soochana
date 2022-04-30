@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JISCE Soochana</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_result">Check Result</string>
+    <string name="latest_notice">Latest Notice</string>
+    <string name="notices">All Notices</string>
+</resources>
